@@ -4,7 +4,7 @@ Hi 👋 I am Szymon Guminiak
 Digitalization student and programming enthusiast
 
 * 🌍  I'm based in Łódź
-* 🎨  See my portfolio of graphic design projects at [Instagram](http://www.instagram.com/to_tylko_portfolio_artysty)
+* 🎨  See my portfolio of graphic design projects at [Behance](https://www.behance.net/szymonguminiak) or [Instagram](http://www.instagram.com/to_tylko_portfolio_artysty)
 * 🧠  I'm currently learning Python
 
 ### Skills
